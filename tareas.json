@@ -1,14 +1,4 @@
 {
-    "1/6/25": [
-        "✅ Hacer 1 hora de ejercicio"
-    ],
-    "2/6/25": [
-        "Tomar 1L de agua"
-    ],
-    "3/6/25": [
-        "Leer 1 libro",
-        "Trabajar en el proyecto Tkinter"
-    ],
     "4/6/25": [
         "C- Ordenar alfabeticamente",
         "F",
@@ -25,5 +15,17 @@
     ],
     "7/6/25": [
         "Salir"
+    ],
+    "1/6/25": [
+        "Marcar tarea como hecho",
+        "✅ Desmarcar tarea"
+    ],
+    "3/6/25": [
+        "Comprobar la cantidad",
+        "de habitos completados en el día"
+    ],
+    "2/6/25": [
+        "✅ Revisar mostrar/ocultar reloj",
+        "Eliminar tarea"
     ]
 }
