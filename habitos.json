@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "Estudiar Física Cuántica",
+        "categoria": "Estudio",
+        "dias_para_hacer": {
+            "lunes": true,
+            "martes": false,
+            "miercoles": true,
+            "jueves": false,
+            "viernes": true,
+            "sabado": false,
+            "domingo": false
+        },
+        "dias": {
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": false,
+            "domingo": false
+        }
+    },
+    {
+        "nombre": "Jugar al futbol",
+        "categoria": "Ejercicio",
+        "dias_para_hacer": {
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": true,
+            "domingo": true
+        },
+        "dias": {
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": true,
+            "domingo": false
+        }
+    },
+    {
+        "nombre": "Trabajar",
+        "categoria": "Sin categoría",
+        "dias_para_hacer": {
+            "lunes": true,
+            "martes": true,
+            "miercoles": true,
+            "jueves": true,
+            "viernes": true,
+            "sabado": false,
+            "domingo": false
+        },
+        "dias": {
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": false,
+            "domingo": false
+        }
+    }
+]
