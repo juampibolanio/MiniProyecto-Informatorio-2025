@@ -7,6 +7,9 @@ Juan Pablo Bolanio,
 Franco Puszkarsky, 
 Hernán Di Gialonardo, 
 Piedra Maria Paula
+Juan Carlos Torales
+Matías Lopez
+Rogelio ALberto
 ---
 
 ## 📋 Descripción
