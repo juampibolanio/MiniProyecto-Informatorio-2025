@@ -3,13 +3,10 @@
 > Proyecto desarrollado en el marco del **Informatorio - Etapa 2: Desarrollo Web**  
 > 📚 Grupo 2 | Python + Tkinter | 2025
 Integrantes:
-Juan Carlos Torales
 Juan Pablo Bolanio
 Franco Puszkarsky
-Matias Ezequiel Lopez
 Hernán Di Gialonardo
 Piedra Maria Paula
-Rogelio Alberto Gauna
 ---
 
 ## 📋 Descripción
