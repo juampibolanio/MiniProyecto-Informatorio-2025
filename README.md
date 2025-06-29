@@ -3,9 +3,9 @@
 > Proyecto desarrollado en el marco del **Informatorio - Etapa 2: Desarrollo Web**  
 > 📚 Grupo 2 | Python + Tkinter | 2025
 Integrantes:
-Juan Pablo Bolanio
-Franco Puszkarsky
-Hernán Di Gialonardo
+Juan Pablo Bolanio, 
+Franco Puszkarsky, 
+Hernán Di Gialonardo, 
 Piedra Maria Paula
 ---
 
