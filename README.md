@@ -71,4 +71,4 @@ El grupo trabajó de forma **colaborativa y organizada mediante metodologías á
 2. Tener **Python 3.x** 
 3. Ejecutá el archivo principal con el siguiente comando en una terminal:
 
-python main.py
+python AdminHabitos.py
