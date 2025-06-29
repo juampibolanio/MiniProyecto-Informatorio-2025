@@ -17,8 +17,6 @@ tree = None
 # --- Variable global para el Label del reloj ---
 reloj_label = None
 
-# La definición de COLORES_DIAS se ha eliminado.
-
 
 # --- Funciones de Carga, Guardado y Visualización ---
 
@@ -274,7 +272,6 @@ style.map("Treeview",
         background=[('selected', "#189052")], 
         foreground=[('selected', 'black')]) 
 
-# La sección de "Configurar estilos específicos para los ENCABEZADOS de los días" se ha eliminado.
 
 # --- Frame para el reloj (parte superior derecha) ---
 frame_reloj = tk.Frame(ventana, bg="#44AB7E")
@@ -327,6 +324,7 @@ columnas = ("Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Do
 tree = ttk.Treeview(frame_treeview, columns=columnas, show="headings", height=15)
 
 tree.heading("#0", text="Hábito", anchor=tk.W)
+
 # El bucle que aplicaba los estilos específicos de color a los encabezados se ha modificado.
 for col_display_name in columnas: # Se ha vuelto al bucle simple
     tree.heading(col_display_name, text=col_display_name, anchor=tk.CENTER)
@@ -355,7 +353,7 @@ menu_archivo.add_command(label="Salir", command=ventana.quit)
 menu_principal.add_cascade(label="Archivo", menu=menu_archivo)
 
 def mostrar_info():
-    messagebox.showinfo("Acerca de", "Gestor de Hábitos v1.0\nCreado por Pauli con ♥ y Tkinter")
+    messagebox.showinfo("Acerca de", "Gestor de Hábitos v1.0\nCreado por el grupo 2 y Tkinter")
 
 menu_ayuda = tk.Menu(menu_principal, tearoff=0)
 menu_ayuda.add_command(label="Acerca de", command=mostrar_info)
