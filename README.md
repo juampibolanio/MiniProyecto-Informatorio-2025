@@ -11,22 +11,16 @@
 Esta aplicación permite al usuario **gestionar sus hábitos diarios** de forma visual e interactiva.  
 Fue desarrollada en **Python** utilizando la biblioteca **Tkinter**, como práctica integradora de los conocimientos aprendidos durante la cursada.
 
-🤝 Metodología de trabajo colaborativo
-Durante el desarrollo del proyecto "Administrador de Hábitos", utilizamos una metodología de trabajo colaborativo basada en los principios de desarrollo ágil, priorizando la comunicación constante, la división clara de tareas y el uso de herramientas modernas.
+# 🤝 Metodología de trabajo colaborativo
+Durante el desarrollo del proyecto "Administrador de Hábitos", utilizamos una metodología de trabajo colaborativo basada en los principios de desarrollo ágil, priorizando la comunicación constante, la división clara de tareas.
 
-🛠️ Herramientas utilizadas
-Git y GitHub: para control de versiones y colaboración.
-
+# 🛠️ Herramientas utilizadas
 Visual Studio Code: entorno de desarrollo común.
 
 GitHub Projects / Issues: para asignar tareas y organizar el trabajo.
 
-WhatsApp / Google Meet: para coordinación y reuniones rápidas.
-
-📌 Organización del grupo
+# 📌 Organización del grupo
 Se asignaron roles según fortalezas personales (ej: lógica, interfaz, testing, documentación).
-
-Cada integrante tomó módulos específicos del proyecto, que luego se integraban en la rama principal (main).
 
 Se aplicó una estrategia de ramas:
 
@@ -34,18 +28,14 @@ main: rama principal estable.
 
 nombre-integrante: ramas individuales para trabajo de cada miembro.
 
-Pull Requests: para integrar código con revisión y aprobación.
-
-🔄 Proceso de trabajo
+# 🔄 Proceso de trabajo
 Planificación inicial: se definió el objetivo general, funcionalidades clave y estructura básica.
 
 Desarrollo modular: cada uno trabajó en funcionalidades específicas (calendario, estadísticas, menú, etc.).
 
 Integración progresiva: a través de pull y merge, resolviendo conflictos en equipo.
 
-Testing y ajustes finales: se verificó el funcionamiento global y se cargaron datos de ejemplo.
-
-✅ Beneficios logrados
+# ✅ Beneficios logrados
 Fluidez en la colaboración.
 
 Reducción de errores por sobreescrituras.
