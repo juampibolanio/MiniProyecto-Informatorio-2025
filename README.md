@@ -93,7 +93,7 @@ Este administrador de hábitos te permite:
 2. Abrí una terminal en la carpeta del proyecto
 3. Asegurate de tener Python instalado
 4. Instalá las dependencias necesarias
-
+5. Para probar las funcionalidades seguir los pasos de cada tarea agregada.
 ### 💻 Requisitos
 
 - Python 3.8 o superior  
