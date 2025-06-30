@@ -17,7 +17,7 @@ Durante el desarrollo del proyecto "Administrador de Hábitos", utilizamos una m
 # 🛠️ Herramientas utilizadas
 Visual Studio Code: entorno de desarrollo común.
 
-GitHub Projects / Issues: para asignar tareas y organizar el trabajo.
+GitHub Projects / kanban para asignar tareas y organizar el trabajo.
 
 # 📌 Organización del grupo
 Se asignaron roles según fortalezas personales (ej: lógica, interfaz, testing, documentación).
