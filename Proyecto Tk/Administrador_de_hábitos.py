@@ -129,7 +129,7 @@ def borrar_todos_los_habitos():
 
 # =====> Funciones acerca de: y estadísticas <=====
 def mostrar_acerca_de():
-    messagebox.showinfo("Acerca de", "Administrador de Hábitos\nCreado por el Grupo 2 del Informatorio™\nVersión 2.0 - 2025")
+    messagebox.showinfo("Acerca de", "Administrador de Hábitos\nCreado por los estudiantes del Grupo 2 del Informatorio™\nVersión 1.0 - 2025")
 
 def mostrar_estadisticas():
     if not tareas_por_fecha:
